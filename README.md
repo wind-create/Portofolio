@@ -1,3 +1,19 @@
+# Assignment Projects: Create your First React Application :
+
+# Requirement minimal
+
+1. Home
+2. About
+3. Experience
+4. Skills
+5. Interest
+6. Awards
+
+# Result
+
+![gambar](https://user-images.githubusercontent.com/56558752/135691807-2839f542-feda-44c5-8d87-dce594e83722.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
